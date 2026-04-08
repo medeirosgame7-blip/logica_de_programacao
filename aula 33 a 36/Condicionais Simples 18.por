@@ -1,7 +1,7 @@
 programa {
   funcao inicio() {
-    real salarioAlto, salario
-    salarioAlto = 41600
+    real salario
+    const real salarioAlto = 41600
 
     escreva("seu salario é: ")
     leia(salario)
